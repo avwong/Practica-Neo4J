@@ -37,7 +37,7 @@ Abra `http://localhost:7474` e inicie sesión con el usuario `neo4j` y esa contr
 
 ## 2. Cargar los datos
 
-1. Abra el script de creación de datos (`<nombre_del_script_de_datos>.cypher`) y péguelo en el editor de Neo4j Browser.
+1. Abra el script de creación de datos (`practica_neo4j.cypher`) y péguelo en el editor de Neo4j Browser.
 2. Ejecútelo completo.
 
 ## 3. Verificar la carga
