@@ -11,7 +11,6 @@ Integrantes: Isaac Jiménez Blanco, Andrés Gabriel Padilla Robles y Alina Rodri
 | `practica_neo4j.cypher` | Consultas Q1 a Q18, cada una con un comentario superior con su número de ejercicio |
 | `Informe_Neo4j.pdf` | Informe con explicación, resultados, capturas y análisis |
 | `README.md` | Este archivo |
-| Capturas de carga | Evidencia de la carga de la base de datos (también incluida en la sección 2 del informe) |
 
 ## Requisitos
 
